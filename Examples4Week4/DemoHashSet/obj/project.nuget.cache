@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "FhCg9lPFPrkYK32CWrJUqGfyG3t/5r5GcdmG1HahNM1K+Nf/u0CO9D5OReDcCFMN2PNxqZWbKCBt20QGpq3Yfw==",
+  "success": true,
+  "projectFilePath": "D:\\OneDrive - Centennial College\\Downloads\\7Programming_Temp\\Examples4Week4\\DemoHashSet\\DemoHashSet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akmon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\akmon\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\akmon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\akmon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

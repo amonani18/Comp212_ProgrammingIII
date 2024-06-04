@@ -1,0 +1,14 @@
+C:\temp\COMP212\Examples4Week4\DemoHashSet\bin\Debug\net6.0\DemoHashSet.exe
+C:\temp\COMP212\Examples4Week4\DemoHashSet\bin\Debug\net6.0\DemoHashSet.deps.json
+C:\temp\COMP212\Examples4Week4\DemoHashSet\bin\Debug\net6.0\DemoHashSet.runtimeconfig.json
+C:\temp\COMP212\Examples4Week4\DemoHashSet\bin\Debug\net6.0\DemoHashSet.dll
+C:\temp\COMP212\Examples4Week4\DemoHashSet\bin\Debug\net6.0\DemoHashSet.pdb
+C:\temp\COMP212\Examples4Week4\DemoHashSet\obj\Debug\net6.0\DemoHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\COMP212\Examples4Week4\DemoHashSet\obj\Debug\net6.0\DemoHashSet.AssemblyInfoInputs.cache
+C:\temp\COMP212\Examples4Week4\DemoHashSet\obj\Debug\net6.0\DemoHashSet.AssemblyInfo.cs
+C:\temp\COMP212\Examples4Week4\DemoHashSet\obj\Debug\net6.0\DemoHashSet.csproj.CoreCompileInputs.cache
+C:\temp\COMP212\Examples4Week4\DemoHashSet\obj\Debug\net6.0\DemoHashSet.dll
+C:\temp\COMP212\Examples4Week4\DemoHashSet\obj\Debug\net6.0\refint\DemoHashSet.dll
+C:\temp\COMP212\Examples4Week4\DemoHashSet\obj\Debug\net6.0\DemoHashSet.pdb
+C:\temp\COMP212\Examples4Week4\DemoHashSet\obj\Debug\net6.0\DemoHashSet.genruntimeconfig.cache
+C:\temp\COMP212\Examples4Week4\DemoHashSet\obj\Debug\net6.0\ref\DemoHashSet.dll

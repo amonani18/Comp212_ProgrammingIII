@@ -1,0 +1,14 @@
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\bin\Debug\net6.0\DemoSortedSet.exe
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\bin\Debug\net6.0\DemoSortedSet.deps.json
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\bin\Debug\net6.0\DemoSortedSet.runtimeconfig.json
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\bin\Debug\net6.0\DemoSortedSet.dll
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\bin\Debug\net6.0\DemoSortedSet.pdb
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\obj\Debug\net6.0\DemoSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\obj\Debug\net6.0\DemoSortedSet.AssemblyInfoInputs.cache
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\obj\Debug\net6.0\DemoSortedSet.AssemblyInfo.cs
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\obj\Debug\net6.0\DemoSortedSet.csproj.CoreCompileInputs.cache
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\obj\Debug\net6.0\DemoSortedSet.dll
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\obj\Debug\net6.0\refint\DemoSortedSet.dll
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\obj\Debug\net6.0\DemoSortedSet.pdb
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\obj\Debug\net6.0\DemoSortedSet.genruntimeconfig.cache
+C:\temp\COMP212\Examples4Week4\DemoSortedSet\obj\Debug\net6.0\ref\DemoSortedSet.dll
