@@ -1,0 +1,62 @@
+﻿<Window x:Class="Restaurant_Bill_Calculator_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Restaurant Bill Calculator" Height="600" Width="1333">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="25*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Menu Categories Labels -->
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Beverage" VerticalAlignment="Center" FontSize="16" FontWeight="Bold"/>
+        <TextBlock Grid.Row="0" Grid.Column="1" Text="Appetizer" VerticalAlignment="Center" FontSize="16" FontWeight="Bold"/>
+        <TextBlock Grid.Row="0" Grid.Column="2" Text="Main Course" VerticalAlignment="Center" FontSize="16" FontWeight="Bold"/>
+        <TextBlock Grid.Row="0" Grid.Column="3" Text="Dessert" VerticalAlignment="Center" FontSize="16" FontWeight="Bold"/>
+
+        <!-- ComboBoxes -->
+        <ComboBox x:Name="comboBoxBeverage" Grid.Row="1" Grid.Column="0" Margin="5" FontSize="16" DisplayMemberPath="Name" SelectionChanged="ComboBox_SelectionChanged"/>
+        <ComboBox x:Name="comboBoxAppetizer" Grid.Row="1" Grid.Column="1" Margin="5" FontSize="16" DisplayMemberPath="Name" SelectionChanged="ComboBox_SelectionChanged"/>
+        <ComboBox x:Name="comboBoxMainCourse" Grid.Row="1" Grid.Column="2" Margin="5" FontSize="16" DisplayMemberPath="Name" SelectionChanged="ComboBox_SelectionChanged"/>
+        <ComboBox x:Name="comboBoxDessert" Grid.Row="1" Grid.Column="3" Margin="5" FontSize="16" DisplayMemberPath="Name" SelectionChanged="ComboBox_SelectionChanged"/>
+
+        <!-- DataGrid -->
+        <DataGrid x:Name="dataGridItems" Grid.Row="2" Grid.ColumnSpan="4" AutoGenerateColumns="False" Margin="5">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Item" Binding="{Binding Name}" Width="*" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Category" Binding="{Binding Category}" Width="*" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Price" Binding="{Binding Price, StringFormat=C}" Width="*" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}" Width="*"/>
+                <DataGridTextColumn Header="Total" Binding="{Binding Total, StringFormat=C}" Width="*" IsReadOnly="True"/>
+                <DataGridTemplateColumn Header="">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Remove" Click="RemoveItem_Click" Width="75"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Buttons -->
+        <Button Content="Clear Bill" Click="ClearBill_Click" Grid.Row="3" Grid.Column="0" Margin="5" Padding="10,5" FontSize="16"/>
+
+        <!-- Bill Summary -->
+        <StackPanel Grid.Row="3" Grid.Column="3" HorizontalAlignment="Center" Margin="0,5,0,5" Width="318">
+            <TextBlock Text="SubTotal:" FontSize="16" FontWeight="Bold"/>
+            <TextBox x:Name="textBlockSubTotal" IsReadOnly="True" FontSize="16" Margin="0,0,0,10"/>
+            <TextBlock Text="Tax (10%):" FontSize="16" FontWeight="Bold"/>
+            <TextBox x:Name="textBlockTax" IsReadOnly="True" FontSize="16" Margin="0,0,0,10"/>
+            <TextBlock Text="Total:" FontSize="16" FontWeight="Bold"/>
+            <TextBox x:Name="textBlockTotal" IsReadOnly="True" FontSize="16"/>
+        </StackPanel>
+    </Grid>
+</Window>

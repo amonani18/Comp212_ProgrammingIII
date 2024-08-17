@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|d:\\onedrive - centennial college\\comp212_programmingiii\\test-02 folder\\aniketmonani_comp212_sec001_test02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\baseballmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|solutionrelative:baseballmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\baseballmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|solutionrelative:baseballmodel.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\baseballmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B621CD46-D553-42C3-A01C-19FFB6E49A1F}|AniketMonani_COMP212_Sec001_Test02.csproj|solutionrelative:baseballmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:13:32.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-14T19:11:28.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseballModel.Context.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\BaseballModel.Context.cs",
+              "RelativeDocumentMoniker": "BaseballModel.Context.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\BaseballModel.Context.cs",
+              "RelativeToolTip": "BaseballModel.Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:11:15.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseballModel.Context.tt",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\BaseballModel.Context.tt",
+              "RelativeDocumentMoniker": "BaseballModel.Context.tt",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\BaseballModel.Context.tt",
+              "RelativeToolTip": "BaseballModel.Context.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-14T19:11:10.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:09:24.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAcwHoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:09:03.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:07:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseballModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\BaseballModel.edmx",
+              "RelativeDocumentMoniker": "BaseballModel.edmx",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\BaseballModel.edmx [Diagram1]",
+              "RelativeToolTip": "BaseballModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-14T19:06:02.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\TEST-02 folder\\AniketMonani_COMP212_Sec001_Test02\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:59:35.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\bin\Debug\Restaurant Bill Calculator).exe.config
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\bin\Debug\Restaurant Bill Calculator).exe
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\bin\Debug\Restaurant Bill Calculator).pdb
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).csproj.AssemblyReference.cache
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\MainWindow.baml
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\MainWindow.g.cs
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\App.g.cs
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator)_MarkupCompile.cache
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).g.resources
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\Restaurant_Bill_Calculator_.Properties.Resources.resources
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).csproj.GenerateResource.cache
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).csproj.CoreCompileInputs.cache
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).exe
+E:\Shivam\Programming 3\Assignment 3\shivam_301304093_Lab#3\Restaurant Bill Calculator)\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).pdb
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\bin\Debug\Restaurant Bill Calculator).exe.config
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\bin\Debug\Restaurant Bill Calculator).exe
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\bin\Debug\Restaurant Bill Calculator).pdb
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).csproj.AssemblyReference.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\MainWindow.baml
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\MainWindow.g.cs
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\App.g.cs
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator)_MarkupCompile.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).g.resources
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\Restaurant_Bill_Calculator_.Properties.Resources.resources
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).csproj.GenerateResource.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).csproj.CoreCompileInputs.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).exe
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Assignments\301422485(Monani)_LAB#3\Restaurant Bill Calculator\Restaurant Bill Calculator)\obj\Debug\Restaurant Bill Calculator).pdb

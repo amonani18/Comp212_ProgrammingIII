@@ -1,0 +1,7 @@
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Sanidhay\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.csproj.AssemblyReference.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Sanidhay\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.csproj.CoreCompileInputs.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Sanidhay\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe.config
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Sanidhay\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Sanidhay\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.pdb
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Sanidhay\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.exe
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Sanidhay\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.pdb

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\publishnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:publishnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|d:\\onedrive - centennial college\\comp212_programmingiii\\assignment2\\question2_notification_management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\subscriptionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:subscriptionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:subscriptionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\publishnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:publishnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\publishnotification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:publishnotification.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\publishnotification.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:publishnotification.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\subscriptionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:subscriptionform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FCD66-D4FE-44E7-B3F4-0DD594E09CA4}|Assignment2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 337,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubscriptionForm.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\SubscriptionForm.cs",
+              "RelativeDocumentMoniker": "SubscriptionForm.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\SubscriptionForm.cs [Design]",
+              "RelativeToolTip": "SubscriptionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:26:08.679Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublishNotification.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\PublishNotification.cs",
+              "RelativeDocumentMoniker": "PublishNotification.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\PublishNotification.cs [Design]",
+              "RelativeToolTip": "PublishNotification.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:49:42.85Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:46:32.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PublishNotification.resx",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\PublishNotification.resx",
+              "RelativeDocumentMoniker": "PublishNotification.resx",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\PublishNotification.resx",
+              "RelativeToolTip": "PublishNotification.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-08T19:26:09.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PublishNotification.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\PublishNotification.Designer.cs",
+              "RelativeDocumentMoniker": "PublishNotification.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\PublishNotification.Designer.cs",
+              "RelativeToolTip": "PublishNotification.Designer.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:21:36.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubscriptionForm.resx",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\SubscriptionForm.resx",
+              "RelativeDocumentMoniker": "SubscriptionForm.resx",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\SubscriptionForm.resx",
+              "RelativeToolTip": "SubscriptionForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-08T19:19:41.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubscriptionForm.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\SubscriptionForm.Designer.cs",
+              "RelativeDocumentMoniker": "SubscriptionForm.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\SubscriptionForm.Designer.cs",
+              "RelativeToolTip": "SubscriptionForm.Designer.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:16:53.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T19:15:00.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-08T18:58:21.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PublishNotification.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\PublishNotification.cs",
+              "RelativeDocumentMoniker": "PublishNotification.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\PublishNotification.cs",
+              "RelativeToolTip": "PublishNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:50:14.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubscriptionForm.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\SubscriptionForm.cs",
+              "RelativeDocumentMoniker": "SubscriptionForm.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\SubscriptionForm.cs",
+              "RelativeToolTip": "SubscriptionForm.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:27:10.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:21:33.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\OneDrive - Centennial College\\Comp212_ProgrammingIII\\Assignment2\\Question2_Notification_management\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:13:05.698Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkeList.exe
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkeList.deps.json
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkeList.runtimeconfig.json
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkeList.dll
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkeList.pdb
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkeList.AssemblyInfoInputs.cache
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkeList.AssemblyInfo.cs
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkeList.csproj.CoreCompileInputs.cache
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkeList.dll
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\refint\Stack_SinglyLinkeList.dll
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkeList.pdb
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkeList.genruntimeconfig.cache
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\ref\Stack_SinglyLinkeList.dll

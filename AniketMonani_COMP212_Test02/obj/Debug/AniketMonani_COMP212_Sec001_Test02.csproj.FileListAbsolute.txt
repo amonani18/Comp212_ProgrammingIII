@@ -1,0 +1,17 @@
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\bin\Debug\Baseball.mdf
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\bin\Debug\Baseball_log.ldf
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\bin\Debug\AniketMonani_COMP212_Sec001_Test02.exe.config
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\bin\Debug\AniketMonani_COMP212_Sec001_Test02.exe
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\bin\Debug\AniketMonani_COMP212_Sec001_Test02.pdb
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\bin\Debug\EntityFramework.dll
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\bin\Debug\EntityFramework.xml
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\obj\Debug\AniketMonani_COMP212_Sec001_Test02.csproj.AssemblyReference.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\obj\Debug\AniketMonani_COMP212_Sec001_Test02.MainForm.resources
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\obj\Debug\AniketMonani_COMP212_Sec001_Test02.Properties.Resources.resources
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\obj\Debug\AniketMonani_COMP212_Sec001_Test02.csproj.GenerateResource.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\obj\Debug\AniketMonani_COMP212_Sec001_Test02.csproj.CoreCompileInputs.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\obj\Debug\AniketMo.35E978E0.Up2Date
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\obj\Debug\AniketMonani_COMP212_Sec001_Test02.exe
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\TEST-02 folder\AniketMonani_COMP212_Sec001_Test02\obj\Debug\AniketMonani_COMP212_Sec001_Test02.pdb

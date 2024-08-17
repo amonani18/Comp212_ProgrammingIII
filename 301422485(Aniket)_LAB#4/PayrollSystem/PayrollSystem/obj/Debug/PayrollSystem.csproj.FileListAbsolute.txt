@@ -1,0 +1,7 @@
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.AssemblyReference.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.CoreCompileInputs.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb

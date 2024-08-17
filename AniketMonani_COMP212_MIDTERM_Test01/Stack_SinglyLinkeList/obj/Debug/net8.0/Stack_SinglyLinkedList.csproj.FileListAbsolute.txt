@@ -1,0 +1,29 @@
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.AssemblyInfo.cs
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.exe
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.deps.json
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.runtimeconfig.json
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.dll
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.pdb
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.dll
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\refint\Stack_SinglyLinkedList.dll
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.pdb
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.genruntimeconfig.cache
+C:\Users\hongt\source\repos\MidterExam\Stack_SinglyLinkeList\obj\Debug\net8.0\ref\Stack_SinglyLinkedList.dll
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.exe
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.deps.json
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.runtimeconfig.json
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.dll
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\bin\Debug\net8.0\Stack_SinglyLinkedList.pdb
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.AssemblyInfoInputs.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.AssemblyInfo.cs
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.csproj.CoreCompileInputs.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.sourcelink.json
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.dll
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\refint\Stack_SinglyLinkedList.dll
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.pdb
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\Stack_SinglyLinkedList.genruntimeconfig.cache
+D:\OneDrive - Centennial College\Comp212_ProgrammingIII\Mid-Term\MidtermExam-Question\Stack_SinglyLinkeList\obj\Debug\net8.0\ref\Stack_SinglyLinkedList.dll

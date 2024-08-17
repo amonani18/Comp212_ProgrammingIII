@@ -1,0 +1,45 @@
+﻿<Window x:Class="Linear_Search.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Linear_Search"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <!-- Define grid rows and columns -->
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <!-- For buttons and text box -->
+                <RowDefinition Height="Auto"/>
+                <!-- For list box -->
+                <RowDefinition Height="*"/>
+                <!-- Fill remaining space -->
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <!-- Flexible width for buttons and text box -->
+                <ColumnDefinition Width="*"/>
+                <!-- Flexible width for buttons and text box -->
+                <ColumnDefinition Width="*"/>
+                <!-- Flexible width for buttons and text box -->
+            </Grid.ColumnDefinitions>
+
+            <!-- Place elements in the grid -->
+            <Button Grid.Row="2" Grid.Column="0" Content="Generate Int Array" Click="GenerateIntArray" Grid.ColumnSpan="2" Margin="0,18,266,360"/>
+            <Button Grid.Row="2" Grid.Column="1" Content="Generate Double Array" Click="GenerateDoubleArray" Grid.ColumnSpan="2" Margin="266,17,0,361"/>
+            <TextBox Grid.Row="2" x:Name="searchBox" Margin="242,331,10,57" Grid.ColumnSpan="2"/>
+
+            <Button Grid.Row="2" Grid.Column="1" Content="Search" Click="SearchArray" HorizontalAlignment="Center" RenderTransformOrigin="0.182,4.322" Margin="0,50,0,336" Width="93" />
+            <TextBlock Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Name="IntSearchResult" Margin="87,382,-20,14" FontWeight="Bold" Foreground="Red"/>
+            <ListBox Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" x:Name="displayBox" Height="200" Margin="5">
+                <ListBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Header="Copy" Click="CopyMenuItem_Click"/>
+                    </ContextMenu>
+                </ListBox.ContextMenu>
+            </ListBox>
+        </Grid>
+    </Grid>
+</Window>
